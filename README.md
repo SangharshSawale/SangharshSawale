@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Sangharsh Sawale
 
 🎓 Information Technology Student at **D. Y. Patil College of Engineering, Akurdi**<br>
-💻 Passionate about **Web Development** and & **Problem Solving**<br>
+💻 Passionate about **Web Development** and **Problem Solving**<br>
 🌐 Focused on building modern web applications using **React, PHP, and Node.js**
 
 ---
