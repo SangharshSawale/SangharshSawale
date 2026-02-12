@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Sangharsh Sawale
 
 🎓 Information Technology Student at **D. Y. Patil College of Engineering, Akurdi**<br>
-💻 Passionate about **Web Development**<br>
+💻 Passionate about **Web Development** and & **Problem Solving**<br>
 🌐 Focused on building modern web applications using **React, PHP, and Node.js**
 
 ---
@@ -46,6 +46,18 @@
 * Git & GitHub
 * VS Code
 * Android Studio
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SangharshSawale&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangharshSawale&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
