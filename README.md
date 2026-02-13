@@ -61,7 +61,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SangharshSawale&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SangharshSawale" />
+</p>
 
 ---
 
