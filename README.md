@@ -44,8 +44,8 @@
 
 ### 🗄️ Database
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SangharshSawale&theme=tokyonight" width="100%" />
 </p>
 
 ### 🧰 Tools & Technologies
