@@ -44,8 +44,9 @@
 
 ### 🗄️ Database
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SangharshSawale&theme=tokyonight" width="100%" />
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 </p>
 
 ### 🧰 Tools & Technologies
@@ -62,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SangharshSawale" />
+  <img src="https://streak-stats.demolab.com?user=SangharshSawale&theme=tokyonight" width="100%" />
 </p>
 
 ---
