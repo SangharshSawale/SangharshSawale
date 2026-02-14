@@ -96,6 +96,7 @@
 
 * GitHub: [https://github.com/SangharshSawale](https://github.com/SangharshSawale)
 * LinkedIn: [https://www.linkedin.com/in/sangharsh-sawale-5791882b2/](https://www.linkedin.com/in/sangharsh-sawale-5791882b2/)
+* Email: sangharshsawale556@gmail.com
 
 ---
 
