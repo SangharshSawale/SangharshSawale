@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Sangharsh Sawale
 
-🎓 Information Technology Student at **D. Y. Patil College of Engineering, Akurdi**<br>
-💻 Passionate about **Web Development** and **Problem Solving**<br>
+🎓 Information Technology Student at **D. Y. Patil College of Engineering, Akurdi**  
+💻 Passionate about **Web Development** and **Problem Solving**  
 🌐 Focused on building modern web applications using **React, PHP, and Node.js**
 
 ---
@@ -13,7 +13,7 @@
 * 🌱 Learning and improving skills in **Full Stack Web Development**
 * ⚛️ Frontend development using **React.js**
 * 💻 Learned **HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, and Material UI**
-* 🔗 Currently working on **Backend Development** using **PHP & Node.js**
+* 🔗 Currently working on **Backend Development** using **PHP, Node.js & EJS**
 * 📱 Experience in Android development using **Java & Android Studio**
 * 📊 Interested in building real-world applications with clean UI and practical features
 
@@ -38,8 +38,9 @@
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EJS-323330?style=for-the-badge&logo=ejs&logoColor=white"/>
 </p>
 
 ### 🗄️ Database
@@ -79,25 +80,4 @@
 🔹 **Medicine Suggestion App**
 
 * Doctor-verified medicine recommendations
-* Google Maps integration for nearby medical facilities
-
----
-
-## 📈 Currently Learning
-
-* Advanced React.js
-* Backend Integration
-* Full Stack Project Architecture
-* DSA for Software Development
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [https://github.com/SangharshSawale](https://github.com/SangharshSawale)
-- LinkedIn: [https://www.linkedin.com/in/sangharsh-sawale-5791882b2/](https://www.linkedin.com/in/sangharsh-sawale-5791882b2/)
-- Email: [sangharshsawale556@gmail.com](mailto:sangharshsawale556@gmail.com)
-
----
-
-⭐ *Always learning and building new things in Web Development.*
+* Google Maps integration for nearby medical facilit*
