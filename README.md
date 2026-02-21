@@ -67,17 +67,3 @@
   <img src="https://streak-stats.demolab.com?user=SangharshSawale&theme=tokyonight" width="100%" />
 </p>
 
----
-
-## 📌 Projects
-
-🔹 **Weather App (React + API)**
-
-* Real-time weather data using OpenWeather API
-* Responsive UI with dynamic backgrounds
-* Material UI components
-
-🔹 **Medicine Suggestion App**
-
-* Doctor-verified medicine recommendations
-* Google Maps integration for nearby medical facilit*
